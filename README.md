@@ -1,3 +1,7 @@
 - 👋 Hi, I’m @KPJ31
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Front End Development
+- 👨‍💻 Coding Enthusiast
+- 💻 Full Stack Developer
+- 🎯 Perfection in every line of code
+- 📚 Always learning
+- 🔧 Java | PHP | JavaScript | HTML/CSS | MySQL
+
