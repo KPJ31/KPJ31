@@ -3,5 +3,5 @@
 - 💻 Full Stack Developer
 - 🎯 Perfection in every line of code
 - 📚 Always learning
-- 🔧 Java | PHP | JavaScript | HTML/CSS | MySQL | Laravel
+- 🔧 Java | PHP | JavaScript | HTML/CSS | MySQL
 
