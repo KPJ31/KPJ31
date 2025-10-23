@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KPJ31
-- 👨‍💻 Coding Enthusiast
-- 💻 Full Stack Developer
-- 🎯 Perfection in every line of code
-- 📚 Always learning
-- 🔧 Java | PHP | JavaScript | HTML/CSS | MySQL | Laravel
-
+💻 Full Stack Developer passionate about building modern and efficient web apps.
+🔹 Java | PHP | MySQL | Laravel | JavaScript | HTML | CSS | Bootstrap
+🚀 Focused on clean code, creativity, and continuous learning.
+🌱 Currently studying HNDIT @ SLIATE
+📍 Jaffna, Sri Lanka
