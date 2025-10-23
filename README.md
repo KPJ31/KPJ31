@@ -1,5 +1,5 @@
-💻 Full Stack Developer passionate about building modern and efficient web apps.
-🔹 Java | PHP | MySQL | Laravel | JavaScript | HTML | CSS | Bootstrap
-🚀 Focused on clean code, creativity, and continuous learning.
-🌱 Currently studying HNDIT @ SLIATE
-📍 Jaffna, Sri Lanka
+- 💻 Full Stack Developer passionate about building modern and efficient web apps.
+- 🔹 Java | PHP | MySQL | Laravel | JavaScript | HTML | CSS | Bootstrap
+- 🚀 Focused on clean code, creativity, and continuous learning.
+- 🌱 Currently studying HNDIT @ SLIATE
+- 📍 Jaffna, Sri Lanka
